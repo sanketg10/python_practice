@@ -3,6 +3,7 @@ import numpy as np
 import math  
 
 #To calculate the largest palindrome among all products of 3-digit numbers 
+
 r = 1
 max = 0
 for f in range(1,1000,1): 
